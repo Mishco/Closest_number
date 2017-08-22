@@ -20,3 +20,5 @@ Print the closest number to n which is also divisible by m.
 ## Output:
 12  
 -18  
+
+http://practice.geeksforgeeks.org/problems/closest-number/0
